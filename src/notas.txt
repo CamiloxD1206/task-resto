@@ -1,3 +1,4 @@
+back y db(node y mongo)
 1.esto sirve para crear un servidor basico y verificar si express esta funcionando
 const express=require('express');
 const app=express();
@@ -11,4 +12,4 @@ console.log('servidor iniciado en 3000')
 ---------------------------------------------------------------
 4.morgan:modulo que registra cualquier peticion que se le hace al servidor
 -----------------------------------------------------------
-5.
+react(front)
