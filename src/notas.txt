@@ -1,0 +1,14 @@
+1.esto sirve para crear un servidor basico y verificar si express esta funcionando
+const express=require('express');
+const app=express();
+app.listen(3000,()=>{
+console.log('servidor iniciado en 3000')
+})
+---------------------------------
+2.ctrl +c =cancela el servidor
+----------------------------------------------
+3.nodemon es modulo que reinicia el servidor cada que se haga un cambio
+---------------------------------------------------------------
+4.morgan:modulo que registra cualquier peticion que se le hace al servidor
+-----------------------------------------------------------
+5.
