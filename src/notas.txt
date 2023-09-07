@@ -18,3 +18,14 @@ router.put(actualizar)
 //---------------
 async:nose
 await:tomara tiempo :v 
+--------------------------------------------------------
+//react(front)
+//conversion de node a js puro
+module.exports={
+    entry:'./src/app/index.js',
+   output:{
+    path:__dirname+'/src/public',
+    filename:'bundle.js'
+   }
+    
+}
