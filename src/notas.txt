@@ -12,4 +12,9 @@ console.log('servidor iniciado en 3000')
 ---------------------------------------------------------------
 4.morgan:modulo que registra cualquier peticion que se le hace al servidor
 -----------------------------------------------------------
-react(front)
+router.get(obtener)
+router.post(guardar)
+router.put(actualizar)
+//---------------
+async:nose
+await:tomara tiempo :v 
