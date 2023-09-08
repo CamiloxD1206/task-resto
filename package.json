@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node src/index.js",
     "dev": "nodemon src/index.js",
-    "webpack": "webpack --mode development"
+    "webpack": "webpack --mode development --watch"
   },
   "keywords": [],
   "author": "",
@@ -17,7 +17,7 @@
     "morgan": "^1.10.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.22.15",
+    "@babel/core": "^7.22.17",
     "@babel/preset-env": "^7.22.15",
     "@babel/preset-react": "^7.22.15",
     "babel-core": "^6.26.3",
